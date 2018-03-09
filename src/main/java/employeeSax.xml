@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<class>
+    <Employee num="1">
+        <deptid>1</deptid>
+        <name>chunks</name>
+    </Employee>
+
+    <Employee num="2">
+        <deptid>2</deptid>
+        <name>chunky</name>
+    </Employee>
+</class>

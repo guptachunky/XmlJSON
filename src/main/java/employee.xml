@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<class>
+    <Employee>
+        <id>1</id>
+        <name>chunks</name>
+        <address>
+            <street>number 1</street>
+            <city>Delhi</city>
+        </address>
+        <department>
+            <deptid>101</deptid>
+            <deptName>deptName</deptName>
+        </department>
+    </Employee>
+
+    <Employee>
+        <id>2</id>
+        <name>chunky</name>
+        <address>
+            <street>number 2</street>
+            <city>Delhi</city>
+        </address>
+        <department>
+            <deptid>102</deptid>
+            <deptName>deptName1</deptName>
+        </department>
+    </Employee>
+</class>
